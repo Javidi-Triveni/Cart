@@ -2,7 +2,7 @@
 
 This is a very simple PHP cart library. Cart data can either be saved in PHP session or browser cookie.
 
-
+#ST.MARTINS
 
 ## Usage
 
